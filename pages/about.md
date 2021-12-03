@@ -4,3 +4,8 @@
 ```sh 
 $ git clone <URL>
 ```
+
+- 원격 저장소의 내용 받아오기
+```sh
+$ git pull origin master
+```
